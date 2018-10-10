@@ -51,3 +51,7 @@ Command line validations
 3. If the input text file is blank, the code throws an error saying: File is empty.
 
 -----------------------------------------------------------------------
+
+
+![alt text](https://raw.githubusercontent.com/nehanaik/Microwave-State-Pattern/branch/path/to/state_diagram.png)
+
